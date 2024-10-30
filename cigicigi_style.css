@@ -1,0 +1,20 @@
+/*
+// CigiCigi Post Guest
+// Author: CigiCigi Online iLk3r
+//  Copyright 2011  CigiCigi Online  ( info@cigicigi.co )
+
+//    This program is free software; you can redistribute it and/or modify
+//    it under the terms of the GNU General Public License, version 2, as 
+//    published by the Free Software Foundation.
+
+//    This program is distributed in the hope that it will be useful,
+//    but WITHOUT ANY WARRANTY; without even the implied warranty of
+//    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+//    GNU General Public License for more details.
+
+//    You should have received a copy of the GNU General Public License
+//    along with this program; if not, write to the Free Software
+//    Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
+//Pack for CigiCigi Post Guest
+*/
+#cigicigi_post_guest_form td{margin-left:20px;padding-left:20px;margin-top:20px;padding-top:20px;color:#990000;font-weight:bold;text-decoration:underline;vertical-align:top;}#cigicigi_post_guest_form input{width:320px;font-style:italic;}#cigicigi_post_guest_form .cigicigi_post_guest_submit{width:80px;margin-top:10px;height:40px;color:#fff;background:#bb0000;font-weight:bold;font-style:normal;}#cigicigi_post_guest_form_warn{padding-top:10px;padding-bottom:10px;background:#fff463;font-weight:bold;margin:15px;border:1px solid #ffffd7;text-align:center;}

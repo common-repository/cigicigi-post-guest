@@ -1,0 +1,249 @@
+# Copyright (C) 2011 CigiCigi Post Guest
+# This file is distributed under the same license as the CigiCigi Post Guest package.
+msgid ""
+msgstr ""
+"Project-Id-Version: CigiCigi Post Guest 1.0.2\n"
+"Report-Msgid-Bugs-To: http://cigicigi.co\n"
+"POT-Creation-Date: 2011-12-15 00:23:12+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2011-12-18 01:17+0200\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: cigicigi_post_guest.php:69
+msgid "Guest"
+msgstr ""
+
+#: cigicigi_post_guest.php:146
+#: cigicigi_post_guest.php:272
+msgid "CigiCigi Post Guest Plugins"
+msgstr ""
+
+#: cigicigi_post_guest.php:148
+msgid "Waiting Posts"
+msgstr ""
+
+#: cigicigi_post_guest.php:158
+msgid "CigiCigi Plugins"
+msgstr ""
+
+#: cigicigi_post_guest.php:159
+msgid "CigiCigi Post Guest Options"
+msgstr ""
+
+#: cigicigi_post_guest.php:161
+msgid "Guest Posts"
+msgstr ""
+
+#: cigicigi_post_guest.php:234
+msgid "Are you sure delete this post ?"
+msgstr ""
+
+#: cigicigi_post_guest.php:265
+msgid "For more CigiCigi Wordpress plugin visit"
+msgstr ""
+
+#: cigicigi_post_guest.php:270
+msgid "Other CigiCigi Wordpress Plugins"
+msgstr ""
+
+#: cigicigi_post_guest.php:319
+msgid "Options Saved"
+msgstr ""
+
+#: cigicigi_post_guest.php:405
+#: cigicigi_post_guest.php:565
+msgid "Temporary upload image directory contain %1$s unnecessary files"
+msgstr ""
+
+#: cigicigi_post_guest.php:407
+#: cigicigi_post_guest.php:567
+msgid "Delete These Files"
+msgstr ""
+
+#: cigicigi_post_guest.php:417
+msgid "Use CAPTCHA ?"
+msgstr ""
+
+#: cigicigi_post_guest.php:426
+msgid "Captcha Type ?"
+msgstr ""
+
+#: cigicigi_post_guest.php:432
+msgid "If you use reCAPTCHA, you register <a href=\"https://www.google.com/recaptcha\" target=\"_blank\">reCAPTCHA</a> and you save this page for public/private key"
+msgstr ""
+
+#: cigicigi_post_guest.php:436
+msgid "Sample Captcha"
+msgstr ""
+
+#: cigicigi_post_guest.php:442
+msgid "You are not using CAPTCHA"
+msgstr ""
+
+#: cigicigi_post_guest.php:458
+msgid "CigiCigi Captcha Background"
+msgstr ""
+
+#: cigicigi_post_guest.php:461
+msgid "Background image is in plugin directory. Image size must be 200x60. Sample: /images/arkaplan.png"
+msgstr ""
+
+#: cigicigi_post_guest.php:465
+msgid "Editor Type ?"
+msgstr ""
+
+#: cigicigi_post_guest.php:468
+msgid "Standart Editor"
+msgstr ""
+
+#: cigicigi_post_guest.php:469
+msgid "BBCode Editor"
+msgstr ""
+
+#: cigicigi_post_guest.php:480
+msgid "Image upload option only run bbcode editor and your theme must be load jQuery library."
+msgstr ""
+
+#: cigicigi_post_guest.php:484
+msgid "Post Author Name"
+msgstr ""
+
+#: cigicigi_post_guest.php:490
+msgid "Author Information with E-Mail"
+msgstr ""
+
+#: cigicigi_post_guest.php:609
+#: cigicigi_post_guest.php:676
+msgid "Author E-Mail"
+msgstr ""
+
+#: cigicigi_post_guest.php:632
+msgid "Read this post"
+msgstr ""
+
+#: cigicigi_post_guest.php:667
+msgid "There are not any waiting posts."
+msgstr ""
+
+#: cigicigi_post_guest.php:679
+#: cigicigi_post_guest.php:767
+#: cigicigi_post_guest.php:789
+#: cigicigi_post_guest.php:832
+#: cigicigi_post_guest.php:837
+#: cigicigi_post_guest.php:843
+#: cigicigi_post_guest.php:875
+msgid "Back"
+msgstr ""
+
+#: cigicigi_post_guest.php:690
+#: cigicigi_post_guest.php:959
+msgid "You must fill in all fields"
+msgstr ""
+
+#: cigicigi_post_guest.php:693
+#: cigicigi_post_guest.php:963
+msgid "Incorrect E-Mail address."
+msgstr ""
+
+#: cigicigi_post_guest.php:704
+#: cigicigi_post_guest.php:1008
+msgid "Your post have been saving database and will be published after approval."
+msgstr ""
+
+#: cigicigi_post_guest.php:755
+#: cigicigi_post_guest.php:1064
+msgid "Separate items with commas"
+msgstr ""
+
+#: cigicigi_post_guest.php:788
+msgid "Guest post has deleted !."
+msgstr ""
+
+#: cigicigi_post_guest.php:802
+msgid "This post send by %1$s"
+msgstr ""
+
+#: cigicigi_post_guest.php:831
+#: cigicigi_post_guest.php:842
+msgid "Post published"
+msgstr ""
+
+#: cigicigi_post_guest.php:872
+msgid "Temporary images deleted"
+msgstr ""
+
+#: cigicigi_post_guest.php:836
+msgid "Sorry user e-mail could not be delivered but post published"
+msgstr ""
+
+#: cigicigi_post_guest.php:915
+msgid "Your post to be approved"
+msgstr ""
+
+#: cigicigi_post_guest.php:917
+msgid "Thank you posting"
+msgstr ""
+
+#: cigicigi_post_guest.php:973
+#: cigicigi_post_guest.php:984
+msgid "Incorrect Captcha, Please try again...!"
+msgstr ""
+
+#: cigicigi_post_guest.php:1011
+msgid "Flood Protection ! Your post had already saved database."
+msgstr ""
+
+#: cigicigi_post_guest.php:1083
+msgid "You are uploaded"
+msgstr ""
+
+#: cigicigi_post_guest.php:1104
+msgid "Send"
+msgstr ""
+
+#: cigicigi_post_guest.php:1126
+msgid "You can upload one image and add text"
+msgstr ""
+
+#: cigicigi_post_guest.php:1136
+msgid "Choose a file to upload"
+msgstr ""
+
+#: cigicigi_post_guest.php:1138
+msgid "Uploading"
+msgstr ""
+
+#: cigicigi_post_guest.php:1140
+msgid "Add File"
+msgstr ""
+
+#: cigicigi_post_guest.php:1146
+msgid "Maximum image width 600 px."
+msgstr ""
+
+#: cigicigi_post_guest.php:1147
+#: cigicigi_post_guest.php:1158
+msgid "Image Properties"
+msgstr ""
+
+#: cigicigi_post_guest.php:1149
+#: cigicigi_post_guest.php:1160
+msgid "File Name"
+msgstr ""
+
+#: cigicigi_post_guest.php:1151
+#: cigicigi_post_guest.php:1162
+msgid "Add to text"
+msgstr ""
+
+#: cigicigi_post_guest.php:1151
+#: cigicigi_post_guest.php:1162
+msgid "Get BBCode"
+msgstr ""
+
+#: cigicigi_post_guest.php:1323
+msgid "Support"
+msgstr ""

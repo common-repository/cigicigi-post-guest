@@ -1,0 +1,20 @@
+/*
+// CigiCigi Post Guest
+// Author: CigiCigi Online iLk3r
+//  Copyright 2011  CigiCigi Online  ( info@cigicigi.co )
+
+//    This program is free software; you can redistribute it and/or modify
+//    it under the terms of the GNU General Public License, version 2, as 
+//    published by the Free Software Foundation.
+
+//    This program is distributed in the hope that it will be useful,
+//    but WITHOUT ANY WARRANTY; without even the implied warranty of
+//    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+//    GNU General Public License for more details.
+
+//    You should have received a copy of the GNU General Public License
+//    along with this program; if not, write to the Free Software
+//    Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
+//Pack for CigiCigi Post Guest
+*/
+#cigicigi_post_guest_form .button{border:1px solid #ccc;margin:1px;padding:2px;}#cigicigi_post_guest_form .button:hover{filter:progid:DXImageTransform.Microsoft.Alpha(opacity=90);-moz-opacity:0.9;}#cigicigi_post_guest_form td.editor{margin-left:1px;padding-left:1px;margin-top:10px;padding-top:10px;}#cigicigi_post_guest_media_mask{position:absolute;left:0;top:0;z-index:9000;background-color:#000;display:none;}#cigicigi_post_guest_boxes .window{position:absolute;left:0;top:0;width:440px;height:200px;display:none;z-index:9999;padding:20px;}#cigicigi_post_guest_boxes #cigicigi_post_guest_dialog{width:375px;height:250px;padding:10px;background-color:#fff;border:1px solid #000;}fieldset{border:1px dotted #DDD;}#cigicigi_post_guest_boxes #cigicigi_post_guest_dialog #cigicigi_post_guest_upload_bar{display: none;width:370px;height:12px;border:1px solid #000;}
